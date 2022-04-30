@@ -1,7 +1,5 @@
 package com.cml.webviewapk;
 
-import android.content.Intent;
-import android.content.pm.ActivityInfo;
 import android.graphics.Color;
 import android.os.Bundle;
 
@@ -17,7 +15,7 @@ import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
-    final String URL_TO_LOAD = "https://www.google.com/";
+    final String URL_TO_LOAD = "https://www.anikaitcorner.com/";
 
     WebView webView;
     @Override
